@@ -1,0 +1,7 @@
+CloudProvider,Service,CostPerHour,AIModelEfficiency
+AWS,Compute,0.1,0.85
+AWS,Storage,0.02,0.9
+GCP,Compute,0.09,0.87
+GCP,Storage,0.018,0.88
+Azure,Compute,0.11,0.8
+Azure,Storage,0.025,0.85
